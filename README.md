@@ -86,10 +86,8 @@ No dejo una tarea sin finalizar y siempre busco distintas alternativas para solu
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arekkasu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
-  </td>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arekkasu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=tex,latex,html,css"/>
+</td>
 </tr>
 </table>
 </p>
