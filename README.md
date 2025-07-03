@@ -1,16 +1,10 @@
 # 💫 About Me
-
-👋 ¡Hola! Soy Alexander, estudiante de Ingeniería de Software con un gran interés en Ciencia de Datos, Desarrollo Web y Ciencias de la Computación.
-
-🌎 **Origen:** Colombia  
-🎓 **Edad:** 19 años  
-📚 **Actualidad:** Estudiando Ingeniería de Software
-
+Estudiante de Ingenieria de Softare
 ## 💻 Tecnologías y herramientas
 
-- Node.js y TypeScript para desarrollo web
-- Python para análisis de datos
-- Familiaridad con Git y SQL (PostgreSQL)
+- Node.js + TypeScript para desarrollo web
+- Python
+- SQL (Psql) & NoSql(Mongo)
 
 ## 📈 Proyectos y experiencia
 
