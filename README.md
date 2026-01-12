@@ -9,20 +9,6 @@ Backend-oriented software engineering student.
 - System architecture
 
 ### Stack
-
-  ya mejore como queria:
-
-## Arekkazu
-
-Backend-oriented software engineering student.
-
-### Focus
-- APIs & backend services
-- Authentication & security
-- Real-time systems
-- System architecture
-
-### Stack
 <table>
   <tr>
     <td><strong>Backend</strong></td>
