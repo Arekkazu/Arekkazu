@@ -2,12 +2,6 @@
 
 Backend-oriented software engineering student.
 
-### Focus
-- APIs & backend services
-- Authentication & security
-- Real-time systems
-- System architecture
-
 ### Stack
 <table>
   <tr>
